@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.7.3)
+  - MagicMapper (1.0.2)
+  - SMCrossSDK (1.0.0):
+    - Alamofire
+    - MagicMapper
+
+DEPENDENCIES:
+  - SMCrossSDK (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - MagicMapper
+
+EXTERNAL SOURCES:
+  SMCrossSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  MagicMapper: 1909d0e15b7a3ef7faec2c5e30791eed0815e934
+  SMCrossSDK: b5e3b6f65a5d53b7b69db72a073d4406363d2bc1
+
+PODFILE CHECKSUM: 8d371acb4747fdfc28c6a4f923e5fee3a25df92c
+
+COCOAPODS: 1.5.0

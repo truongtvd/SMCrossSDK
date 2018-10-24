@@ -1,0 +1,6 @@
+framework module SMCrossSDK {
+  umbrella header "SMCrossSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

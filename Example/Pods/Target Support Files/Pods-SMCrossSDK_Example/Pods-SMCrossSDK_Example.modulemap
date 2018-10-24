@@ -1,0 +1,6 @@
+framework module Pods_SMCrossSDK_Example {
+  umbrella header "Pods-SMCrossSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

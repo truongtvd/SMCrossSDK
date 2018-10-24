@@ -1,0 +1,6 @@
+framework module Pods_SMCrossSDK_Tests {
+  umbrella header "Pods-SMCrossSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
