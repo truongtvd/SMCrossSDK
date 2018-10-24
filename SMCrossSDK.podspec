@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SMCrossSDK'
   s.version          = '1.0.0'
-  s.summary          = 'A short description of SMCrossSDK.'
+  s.summary          = 'Đây là thư viện quảng cáo chéo'
   s.swift_version    = '4.0'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

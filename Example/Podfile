@@ -3,9 +3,5 @@ use_frameworks!
 target 'SMCrossSDK_Example' do
   pod 'SMCrossSDK', :path => '../'
 
-  target 'SMCrossSDK_Tests' do
-    inherit! :search_paths
 
-    
-  end
 end
